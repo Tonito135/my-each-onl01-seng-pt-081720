@@ -7,4 +7,3 @@ def my_each(collection)
   end
 end
 
-my_each.array {i}
